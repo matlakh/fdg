@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="75" viewBox="0 0 76 75">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_39" data-name="Rectangle 39" width="76" height="75" transform="translate(7971 3695)" fill="rgba(255,255,255,0.5)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-7971 -3695)" clip-path="url(#clip-path)">
+    <g id="layer1" transform="translate(7971 2717.639)">
+      <g id="g4203" transform="translate(77.34 1074.547)">
+        <path id="path3433" d="M14.588-80.282Z" fill="#ed1c24" fill-rule="evenodd"/>
+        <path id="path3461" d="M-16.416-74.981c.23-.072.532.072.835.47L-1.906-61.186a1.7,1.7,0,0,1,0,2.59l-13.674,13.53c-.3.4-.605.494-.835.373s-.375-.47-.375-.976V-74.113c0-.494.145-.8.375-.867Z" fill="#ed1c24" fill-rule="evenodd"/>
+        <path id="path3463" d="M-39.807-97.186h.968l.932.386,14.074,13.928c.605.8.4,1.4-.605,1.4h-5.833a1.788,1.788,0,0,0-1.8,1.8v10.337a1.856,1.856,0,0,1-2.021,1.8h-10.25a1.8,1.8,0,0,1-1.815-1.8V-79.68a1.791,1.791,0,0,0-1.815-1.8h-6.232c-1,0-1.21-.6-.605-1.4L-40.727-96.8Z" fill="#ed1c24" fill-rule="evenodd"/>
+        <path id="path3465" d="M-61.856-75.282c.254.12.411.47.411.976V-45.27c0,.506-.157.807-.411.9a1.127,1.127,0,0,1-1-.3L-76.741-58.6a1.7,1.7,0,0,1,0-2.59l13.88-13.723c.411-.4.762-.494,1-.373Z" fill="#ed1c24" fill-rule="evenodd"/>
+        <path id="path3467" d="M-44.345-52.427H-34.1a1.856,1.856,0,0,1,2.021,1.8v10.94a1.84,1.84,0,0,0,1.8,1.988h5.433c1,0,1.4.59.605,1.193L-37.908-22.788a2.028,2.028,0,0,1-1.416.6,2,2,0,0,1-1.4-.6L-54.4-36.511c-.811-.6-.411-1.193.593-1.193h5.833a1.842,1.842,0,0,0,1.815-1.988v-10.94A1.8,1.8,0,0,1-44.345-52.427Z" fill="#ed1c24" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
